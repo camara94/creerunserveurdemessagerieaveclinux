@@ -1,1 +1,3 @@
-# creerunserveurdemessagerieaveclinux
+# Créer un serveur de messagerie avec Linux
+
+Créez un serveur de messagerie complet sur votre serveur dédié Linux grâce à cette formation. Vous allez apprendre à mettre en place Postfix et Dovecot pour réaliser un serveur de courrier électronique aux fonctionnalités complètes, incluant antispam et antivirus, dans le but de gérer de multiples domaines et de multiples utilisateurs de façon sécurisée. Si vous gérez déjà un serveur dédié, que vous connaissez déjà un peu l’administration en ligne de commande et que vous souhaitez aller plus loin, cette formation est faite pour vous. Mettre en place un serveur de messagerie sur Linux n’est pas une mince affaire, et votre formateur Rudi Bruchez vous conduira pas à pas dans chacune des étapes qui vous permettront d’obtenir un résultat solide et de bien comprendre comment cela fonctionne.
